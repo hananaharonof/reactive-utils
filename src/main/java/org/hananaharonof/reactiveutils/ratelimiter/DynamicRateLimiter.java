@@ -1,4 +1,4 @@
-package org.hananaharonof.ratelimiter;
+package org.hananaharonof.reactiveutils.ratelimiter;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import org.reactivestreams.Subscriber;

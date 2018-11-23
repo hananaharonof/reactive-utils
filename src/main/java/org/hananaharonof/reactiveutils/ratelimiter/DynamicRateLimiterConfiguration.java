@@ -1,4 +1,4 @@
-package org.hananaharonof.ratelimiter;
+package org.hananaharonof.reactiveutils.ratelimiter;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
